@@ -1,5 +1,5 @@
 # ProfitSplitters
-## Background
+## Overview
 For this project I've created 3 smart contracts that can be used automate some company finances to make everyone's lives easier, increase transparency, and to make accounting and auditing practically automatic!
 
 * `AssociateProfitSplitter` - This contract will accept Ether into the contract and divide the Ether evenly among the associate level emplayees. This will allow the HR department to pay employees quickly and efficiently.
